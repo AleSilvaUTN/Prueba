@@ -1,5 +1,10 @@
 Dark
+<<<<<<< HEAD
 minecraft
 dark souls 2
 Eldenring
 fornite
+=======
+Eldenring
+fornite
+>>>>>>> refs/remotes/origin/main
